@@ -19,4 +19,6 @@ Build a comprehensive dashboard to analyze key revenue metrics, track trends, an
 ### Outcome
 Helped AtliQ Grands regain 20% of their market share and revenue within a month by enabling data-driven decision-making.
 
+## Link
+[View Dashboard](https://project.novypro.com/FCFjsA)
 
