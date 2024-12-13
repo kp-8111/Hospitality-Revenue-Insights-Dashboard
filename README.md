@@ -1,5 +1,4 @@
 ##  Hospitality Revenue Insights Dashboard
-[View Dashboard](https://project.novypro.com/FCFjsA)
 
 ### Project Overview
 AtliQ Grands, a luxury hotel chain in the competitive hospitality industry, experienced declining market share and revenue due to increased competition and poor management decisions.
